@@ -1,3 +1,7 @@
 Software analysis exercise 1
 Modification du fichier 1
+<<<<<<< HEAD
 Conflict attempt command line 2
+=======
+Test confict
+>>>>>>> 365c72ff5f0dc1c712180eb573e33f80c981229d
